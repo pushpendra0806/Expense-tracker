@@ -15,10 +15,3 @@ A powerful GUI-based Expense Tracker built using Python Tkinter.
 - Matplotlib
 - JSON
 
-## 📸 Screenshots
-(Add screenshots here)
-
-## ▶️ How to Run
-```bash
-pip install matplotlib
-python main.py
